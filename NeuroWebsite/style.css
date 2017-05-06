@@ -1,0 +1,280 @@
+body {
+	/*background-color: blue;*/
+	/*<background-image: url(img/out.png);*/
+	background-image: url(http://wallpapercave.com/wp/kSQdCxM.jpg)
+} 
+
+.ttl {
+   background-color: white;
+   width: 20%;
+   position: absolute;
+   top: 300px;
+   left:50px;
+   border-radius: 100px;
+}
+
+.name {
+   background-color: white;
+   width: 20%;
+   position: absolute;
+   top: 200px;
+   left:900px;
+   border-radius: 100px;
+}
+
+.cent {
+   text-align: center;
+   vertical-align: middle;
+   line-height: 40px;  
+}
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 280px; 
+   left: 490px; 
+   width: 20%; 
+}
+
+a.hc:hover {
+   color: #0a5e82;
+}
+
+.pg1 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 50px; 
+   left: 550px; 
+   width: 20%; 
+}
+
+.pg2 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 120px; 
+   left: 550px; 
+   width: 20%; 
+}
+
+.pg3 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 200px; 
+   left: 560px; 
+   width: 20%; 
+}
+
+.pg4 { 
+   position: absolute; 
+   top: 735px; 
+   left: 900px; 
+   width: 20%; 
+}
+
+.pg5 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 580px; 
+   left: 320px; 
+   width: 20%; 
+}
+
+.pg6 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 900px; 
+   left: 670px; 
+   width: 20%; 
+}
+
+.pg7 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 1150px; 
+   left: 450px; 
+   width: 20%; 
+}
+
+/*
+.pg8 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 900px; 
+   left: 700px; 
+   width: 20%; 
+}
+
+.pg9 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 1100px; 
+   left: 440px; 
+   width: 20%; 
+}
+
+.pg10 { 
+   position: absolute; 
+   font-size: 21px;
+   top: 1100px; 
+   left: 690px; 
+   width: 20%; 
+}
+*/
+
+.fn{ 
+   position: absolute; 
+   font-size: 21px;
+   top: 1470px; 
+   left: 690px; 
+   width: 10%; 
+}
+
+/*Page 1*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#hw {
+   font-family: 'Inconsolata', monospace;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.one:link {
+	color:darkblue;
+}
+a.one:hover{
+	color:white;
+}
+/*End Page 1*/
+
+/*Page 2*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#eth {
+   font-family: 'Alegreya', serif;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.two:link {
+	color:darkblue;
+}
+a.two:hover{
+	color:white;
+}
+/*End Page 2*/
+
+/*Page 3*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#arm {
+   font-family: 'Audiowide', cursive;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.three:link {
+   color:darkblue;
+}
+a.three:hover{
+   color:white;
+}
+/*End Page 3*/
+
+/*Page 4*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#cor {
+   font-family: 'Shadows Into Light', cursive;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.four:link {
+   color:darkblue;
+}
+a.four:hover{
+   color:white;
+}
+/*End Page 4*/
+
+/*Page 5*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#des {
+   font-family: 'Lobster', cursive;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.five:link {
+   color:darkblue;
+}
+a.five:hover{
+   color:white;
+}
+/*End Page 5*/
+
+/*Page 6*/
+.b1 {
+   background-color: lightblue;
+   height: 100%;
+   line-height: 2;
+   padding: 15px;
+}
+
+#now {
+   font-family: 'Indie Flower', cursive;
+   text-decoration: underline;
+   font-weight: bold;
+}
+a:link {
+   color: white;
+}
+a.six:link {
+   color:darkblue;
+}
+a.six:hover{
+   color:white;
+}
+/*End Page 6*/
+
