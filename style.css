@@ -279,7 +279,8 @@ a.six:hover{
 /*End Page 6*/
 
 /*Page 7*/
-.ind {
-   text-indent: 50px;
+
+.indent {
+   margin-left: 50px;
 }
 
